@@ -1,0 +1,12 @@
+VSTest version 18.10.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+  Passed TestPhysicalSort [< 1 ms]
+  Passed TestIndexSort [< 1 ms]
+  Passed TestBinarySearch [< 1 ms]
+
+Test Run Successful.
+Total tests: 3
+     Passed: 3
+ Total time: 0,5291 Seconds

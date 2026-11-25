@@ -1,0 +1,102 @@
+Vvedit kilkist studentiv (N > 0): 
+================ MENYU ================
+ [1] - vvedennya danykh z klaviatury
+ [2] - vyvid danykh na ekran
+ [3] - fizychne vporyadkuvannya masyvu
+ [4] - indeksne vporyadkuvannya ta vyvid
+ [5] - binarnyy poshuk studenta
+ [0] - vykhid
+=======================================
+Vyberit diyu: Student # 1:
+ prizvyshche:  kurs (1-6):  spetsialnist (0 - KN, 1 - INF, 2 - ME, 3 - FI, 4 - TN):  otsinka z fizyky (2-5):  otsinka z matematyky (2-5):  otsinka z programuvannya (2-5): 
+Student # 2:
+ prizvyshche:  kurs (1-6):  spetsialnist (0 - KN, 1 - INF, 2 - ME, 3 - FI, 4 - TN):  otsinka z fizyky (2-5):  otsinka z matematyky (2-5):  otsinka z chyselnykh metodiv (2-5): 
+Student # 3:
+ prizvyshche:  kurs (1-6):  spetsialnist (0 - KN, 1 - INF, 2 - ME, 3 - FI, 4 - TN):  otsinka z fizyky (2-5):  otsinka z matematyky (2-5):  otsinka z pedagogiky (2-5): 
+Student # 4:
+ prizvyshche:  kurs (1-6):  spetsialnist (0 - KN, 1 - INF, 2 - ME, 3 - FI, 4 - TN):  otsinka z fizyky (2-5):  otsinka z matematyky (2-5):  otsinka z pedagogiky (2-5): 
+
+================ MENYU ================
+ [1] - vvedennya danykh z klaviatury
+ [2] - vyvid danykh na ekran
+ [3] - fizychne vporyadkuvannya masyvu
+ [4] - indeksne vporyadkuvannya ta vyvid
+ [5] - binarnyy poshuk studenta
+ [0] - vykhid
+=======================================
+Vyberit diyu: ==========================================================================================
+| # |   Prizvyshche | Kurs | Spetsialnist  | Fiz. | Mat. | Prog. | Chys.met | Pedagogika |
+------------------------------------------------------------------------------------------
+| 1 | Andriyenko    |    2 | Komp. nauky   |    5 |    4 |     5 |          |            |
+| 2 | Zaharchenko   |    2 | Informatyka   |    5 |    5 |       |        4 |            |
+| 3 | Boyko         |    1 | Mat. ta ek.   |    5 |    3 |       |          |          4 |
+| 4 | Koval         |    3 | Fiz. ta inf.  |    3 |    5 |       |          |          5 |
+==========================================================================================
+
+
+================ MENYU ================
+ [1] - vvedennya danykh z klaviatury
+ [2] - vyvid danykh na ekran
+ [3] - fizychne vporyadkuvannya masyvu
+ [4] - indeksne vporyadkuvannya ta vyvid
+ [5] - binarnyy poshuk studenta
+ [0] - vykhid
+=======================================
+Vyberit diyu: ==========================================================================================
+| # |   Prizvyshche | Kurs | Spetsialnist  | Fiz. | Mat. | Prog. | Chys.met | Pedagogika |
+------------------------------------------------------------------------------------------
+| 1 | Koval         |    3 | Fiz. ta inf.  |    3 |    5 |       |          |          5 |
+| 2 | Boyko         |    1 | Mat. ta ek.   |    5 |    3 |       |          |          4 |
+| 3 | Zaharchenko   |    2 | Informatyka   |    5 |    5 |       |        4 |            |
+| 4 | Andriyenko    |    2 | Komp. nauky   |    5 |    4 |     5 |          |            |
+==========================================================================================
+
+
+================ MENYU ================
+ [1] - vvedennya danykh z klaviatury
+ [2] - vyvid danykh na ekran
+ [3] - fizychne vporyadkuvannya masyvu
+ [4] - indeksne vporyadkuvannya ta vyvid
+ [5] - binarnyy poshuk studenta
+ [0] - vykhid
+=======================================
+Vyberit diyu: Masyv fizychno vporyadkovano!
+
+================ MENYU ================
+ [1] - vvedennya danykh z klaviatury
+ [2] - vyvid danykh na ekran
+ [3] - fizychne vporyadkuvannya masyvu
+ [4] - indeksne vporyadkuvannya ta vyvid
+ [5] - binarnyy poshuk studenta
+ [0] - vykhid
+=======================================
+Vyberit diyu: ==========================================================================================
+| # |   Prizvyshche | Kurs | Spetsialnist  | Fiz. | Mat. | Prog. | Chys.met | Pedagogika |
+------------------------------------------------------------------------------------------
+| 1 | Koval         |    3 | Fiz. ta inf.  |    3 |    5 |       |          |          5 |
+| 2 | Boyko         |    1 | Mat. ta ek.   |    5 |    3 |       |          |          4 |
+| 3 | Zaharchenko   |    2 | Informatyka   |    5 |    5 |       |        4 |            |
+| 4 | Andriyenko    |    2 | Komp. nauky   |    5 |    4 |     5 |          |            |
+==========================================================================================
+
+
+================ MENYU ================
+ [1] - vvedennya danykh z klaviatury
+ [2] - vyvid danykh na ekran
+ [3] - fizychne vporyadkuvannya masyvu
+ [4] - indeksne vporyadkuvannya ta vyvid
+ [5] - binarnyy poshuk studenta
+ [0] - vykhid
+=======================================
+Vyberit diyu: Vvedit klyuchi poshuku:
+ otsinka z fizyky (2-5):  kurs (1-6):  prizvyshche: Znaydeno studenta u pozytsiyi # 3
+
+================ MENYU ================
+ [1] - vvedennya danykh z klaviatury
+ [2] - vyvid danykh na ekran
+ [3] - fizychne vporyadkuvannya masyvu
+ [4] - indeksne vporyadkuvannya ta vyvid
+ [5] - binarnyy poshuk studenta
+ [0] - vykhid
+=======================================
+Vyberit diyu: 

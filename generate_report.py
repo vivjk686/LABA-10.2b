@@ -189,18 +189,15 @@ def generate_report():
     add_image_box(doc, os.path.join(IMG_DIR, "struct.png"), "Рис. 3. Структурна схема програми LABA-10.2b", width_inches=6.2)
     add_p(doc, "Опис архітектури та підпрограм:")
 
-    add_p(doc, '• Головний модуль (LABA-10.2b.cpp): забезпечує введення N, виклик Create() і Print(), циклічну роботу меню [1] Фізичне впорядкування, [2] Індексне впорядкування, [3] Бінарний пошук, [0] Вихід.')
-    add_p(doc, '• Заголовний файл (student2b.h): описує enum Specialnist, структуру Student рівня В з анонімним union та прототипи функцій.')
-    add_p(doc, '• Файл реалізації (student2b.cpp): реалізує введення/вивід з урахуванням активного поля об’єднання, фізичне сортування, індексне сортування та бінарний пошук.')
+    add_p(doc, '• Головний блок main(): зчитує N, виділяє масив Student* p = new Student[N] та організовує циклічне меню [1]–[5], [0].')
+    add_p(doc, '• Create(p, N), Print(p, N) та PrintIndexSorted(p, I, N): введення з валідацією та вивід 9-колонкової таблиці з підтримкою анонімного об’єднання union.')
+    add_p(doc, '• Sort(p, N) та IndexSort(p, N): фізичне та індексне впорядкування за ключами (фізика↑, курс↑, прізвище↓).')
+    add_p(doc, '• BinSearch(p, N, prizv, kurs, fizyka): двійковий пошук у фізично відсортованому масиві.')
 
     # --- 4. ТЕКСТ ПРОГРАМИ ---
     add_h(doc, "4. Текст програми", level=1)
 
-    add_h(doc, '4.1. Заголовний файл student2b.h', level=2)
-    add_code_block(doc, read_txt(BASE_DIR, 'LABA-10.2b\\student2b.h'))
-    add_h(doc, '4.2. Файл реалізації student2b.cpp', level=2)
-    add_code_block(doc, read_txt(BASE_DIR, 'LABA-10.2b\\student2b.cpp'))
-    add_h(doc, '4.3. Головний файл LABA-10.2b.cpp', level=2)
+    add_h(doc, '4.1. Текст програми LABA-10.2b.cpp', level=2)
     add_code_block(doc, read_txt(BASE_DIR, 'LABA-10.2b\\LABA-10.2b.cpp'))
 
     # --- 5. МОДУЛЬНЕ ТЕСТУВАННЯ ---
